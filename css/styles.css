@@ -1,8 +1,9 @@
 /* css/styles.css */
 body {
   font-family: Arial, sans-serif;
+  color: antiquewhite;
   text-align: center;
-  background-color: #f3f3f3;
+  background-color: black;
 }
 
 h1 {
